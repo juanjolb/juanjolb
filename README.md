@@ -1,16 +1,33 @@
-### Hi there 👋
+<p align="center" width="300">
+   <img align="center" width="180" src="./assets/programmer.gif" />
+   <h3 align="center">¡Hey 👋! I am Juanjo 👨🏻‍💻</h3>
+</p>
 
-<!--
-**juanjolb/juanjolb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">I am a <strong>javascript front end developer</strong> with more than 3 years of experience, currently working at @fundacionayesa</p>
 
-Here are some ideas to get you started:
+## ⚡Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- <p align="center"></p> -->
+
+<p align="center">
+   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+   <img src="https://img.shields.io/badge/ANGULAR-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+</p>
+
+## 💬 Contact
+<p align="center">
+   <a href="https://linkedin.com/in/juanjo-lozano">
+   <img src="https://img.shields.io/badge/linkedin-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=black">
+   </a>
+   <a href="mailto:lbarcelo.juanjo@gmail.com">
+      <img src="https://img.shields.io/badge/gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=black">
+   </a>
+</p>
+
+<h3 align="center">Check my projects 👇</h3>
