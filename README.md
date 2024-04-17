@@ -46,7 +46,7 @@
          <p>My work as a freelance, I have designed, developed and deployed websites to multiple clients using CMS like wordpress or custom developments with the latest technologies.</p>
       </td>
       <td style='text-align:center; vertical-align:middle'>
-         <p>Trello clone using Angular version 17 new features, card data is stored in localstorage, currently looking to add a drag and drop feature.</p>
+         <p>Trello clone using Angular version 17 new features, card data is stored in localstorage, with drag and drop features to card and tasks.</p>
       </td>
       <td style='text-align:center; vertical-align:middle'>
          <p>CRUD of Heroes using Angular with http requests (mocked backend), interceptor, API pagination, custom directive, routing and more.</p>
