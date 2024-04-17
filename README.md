@@ -9,14 +9,14 @@
 
 <table border="0" align="center">
    <tr>
-      <td style='text-align:center; vertical-align:middle'>
-         <img width="240" src="./assets/sietewebs.png" />
+      <td style='text-align:center;' width="400">
+         <img height="500" src="./assets/sietewebs.png" />
       </td>
-      <td style='text-align:center; vertical-align:middle'>
-          <img width="240" src="./assets/trello-clone.png.png" />
+      <td style='text-align:center;' width="400">
+          <img height="500" src="./assets/trello-clone.png" />
       </td>
-      <td style='text-align:center; vertical-align:middle'>
-          <img width="240" src="./assets/sietewebs.png" />
+      <td style='text-align:center;' width="400">
+          <img height="500" src="./assets/challenge.png" />
       </td>
    </tr>
    <tr>
@@ -35,10 +35,10 @@
          <a href="https://sietewebs.es" style="display: block;">https://sietewebs.es</a>
       </td>
       <td style='text-align:center; vertical-align:middle'>
-         <a href=">https://juanjolb.github.io/trello-clone-angular" style="display: block;">https://juanjolb.github.io/trello-clone-angular</a>
+         <a href=">https://juanjolb.github.io/trello-clone-angular" style="display: block;">Trello clone github pages</a>
       </td>
       <td style='text-align:center; vertical-align:middle'>
-         <a href="https://github.com/juanjolb/w2m-challenge" style="display: block;">https://github.com/juanjolb/w2m-challenge</a>
+         <a href="https://github.com/juanjolb/w2m-challenge" style="display: block;">Challenge repository</a>
       </td>
    </tr>
    <tr>
