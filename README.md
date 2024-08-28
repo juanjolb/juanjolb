@@ -63,7 +63,6 @@
       <td style='text-align:center;' width="400">
           <img src="./assets/public-ib.png" />
       </td>
-      <td></td>
    </tr>
    <tr>
       <td style='text-align:center; vertical-align:middle'>
@@ -72,7 +71,6 @@
       <td style='text-align:center; vertical-align:middle'>
             <h3>BALEARIC ISLANDS PUBLIC DATA</h3>
       </td>
-      <td></td>
    </tr>
    <tr>
       <td style='text-align:center; vertical-align:middle'>
@@ -81,7 +79,6 @@
       <td style='text-align:center; vertical-align:middle'>
          <a href="https://juanjolb.github.io/public-data-ib/" style="display: block;">B.I data github pages</a>
       </td>
-     <td></td>
       
    </tr>
    <tr>
@@ -91,7 +88,6 @@
       <td style='text-align:center; vertical-align:middle'>
          <p>Open data catalogue of the Balearic Islands, with a map and tables of multiple data obtained from the Open Data Portal GOIB</p>
       </td>
-      <td></td>
    </tr>
 </table>
 
