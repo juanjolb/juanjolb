@@ -86,7 +86,7 @@
          <p>Spreadsheet based on @midudev exercise, with a plain html file just using JS.</p>
       </td>
       <td style='text-align:center; vertical-align:middle'>
-         <p>Open data catalogue of the Balearic Islands, with a map and tables of multiple data obtained from the Open Data Portal GOIB</p>
+         <p>Open data catalogue of the Balearic Islands, with a map and tables of multiple data obtained from the Open Data Portal GOIB.</p>
       </td>
    </tr>
 </table>
