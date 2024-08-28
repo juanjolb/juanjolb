@@ -8,10 +8,29 @@
 ## 🏆Projects
 
 <table border="0" align="center">
-   <tr>
+    <tr>
       <td style='text-align:center;' width="400">
          <img src="./assets/sietewebs.png" />
       </td>
+     <tr>
+      <td style='text-align:center; vertical-align:middle'>
+         <h3>SIETEWEBS</h3>
+      </td>
+     </tr>
+     <tr>
+      <td style='text-align:center; vertical-align:middle'>
+         <a href="https://sietewebs.es" style="display: block;">https://sietewebs.es</a>
+      </td>
+     </tr>
+    <tr>
+    <td style='text-align:center; vertical-align:middle'>
+         <p>My work as a freelance, I have designed, developed and deployed websites to multiple clients using CMS like wordpress or custom developments              with the latest technologies.</p>
+      </td>
+    </tr>
+</table>
+
+<table border="0" align="center">
+   <tr>
       <td style='text-align:center;' width="400">
           <img src="./assets/trello-clone.png" />
       </td>
@@ -21,9 +40,6 @@
    </tr>
    <tr>
       <td style='text-align:center; vertical-align:middle'>
-         <h3>SIETEWEBS</h3>
-      </td>
-      <td style='text-align:center; vertical-align:middle'>
             <h3>TRELLO CLONE</h3>
       </td>
       <td style='text-align:center; vertical-align:middle'>
@@ -32,20 +48,13 @@
    </tr>
    <tr>
       <td style='text-align:center; vertical-align:middle'>
-         <a href="https://sietewebs.es" style="display: block;">https://sietewebs.es</a>
-      </td>
-      <td style='text-align:center; vertical-align:middle'>
          <a href="https://juanjolb.github.io/trello-clone-angular" style="display: block;">Trello clone github pages</a>
       </td>
       <td style='text-align:center; vertical-align:middle'>
          <a href="https://github.com/juanjolb/w2m-challenge" style="display: block;">Challenge repository</a>
       </td>
-      
    </tr>
    <tr>
-      <td style='text-align:center; vertical-align:middle'>
-         <p>My work as a freelance, I have designed, developed and deployed websites to multiple clients using CMS like wordpress or custom developments with the latest technologies.</p>
-      </td>
       <td style='text-align:center; vertical-align:middle'>
          <p>Trello clone using Angular version 17 new features, card data is stored in localstorage, with drag and drop features to card and tasks.</p>
       </td>
@@ -86,7 +95,7 @@
          <p>Spreadsheet based on @midudev exercise, with a plain html file just using JS.</p>
       </td>
       <td style='text-align:center; vertical-align:middle'>
-         <p>Open data catalogue of the Balearic Islands, with a map and tables of multiple data obtained from the Open Data Portal GOIB.</p>
+         <p>Open data catalogue of the Balearic Islands, with a map and tables of multiple data obtained from the Open Data Portal GOIB</p>
       </td>
    </tr>
 </table>
